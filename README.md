@@ -4,7 +4,7 @@
 
 
 
-## Overveiw
+## Overview
  As business analyst, I was asked by Pizzaiolo's Delight, a rapidly growing pizza restaurant chain with multiple locations across the city, to analyze their sales data. The management team observed varying sales patterns and sought to optimize operations to enhance profitability and customer satisfaction. They tasked me with uncovering insights that could guide their strategy.
 
 In this case study, I delved into the restaurant's sales data, analyzed trends, and presented actionable recommendations to the management team. This project provided me with practical experience in data management, analysis, and visualization using Excel, focusing on real-world business intelligence applications.
@@ -14,9 +14,9 @@ My objective was to use Excel to analyze sales trends, identify customer prefere
 I worked with a rich dataset from Pizzaiolo's Delight that included:
 
 Orders: Information about each order placed, including date and time.
-Order Details: Specifics of each item ordered, including quantities and prices.
-Pizzas: Information about each pizza, such as size and base price.
-Pizza Types: Descriptions of each pizza type, including ingredients and category (e.g., Classic, Veggie).
+#### Order Details: Specifics of each item ordered, including quantities and prices.
+#### Pizzas: Information about each pizza, such as size and base price.
+#### Pizza Types: Descriptions of each pizza type, including ingredients and category (e.g., Classic, Veggie).
 This dataset was crucial for understanding customer behavior, identifying popular items, and spotting opportunities for operational efficiencies.
 ## The Analyst's Challenge
 The restaurant's management was eager to understand the following:
