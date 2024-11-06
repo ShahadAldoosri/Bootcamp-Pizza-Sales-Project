@@ -26,6 +26,6 @@ Popular Pizzas: Which types and sizes of pizzas are customer favorites, and are 
 Order Value: What is the average revenue per order, and how can it be increased?
 Impact of Pizza Size on Sales: How do different pizza sizes contribute to sales in terms of volume and revenue, and could adjusting pricing strategies boost profits?
 ## Tools Required
- -Microsoft Excel
- -Power Query for Excel
- -Advanced Excel Formulas(VLOOKUP, SUMIFS etc)
+ ##### -Microsoft Excel
+ ##### -Power Query for Excel
+ ##### -Advanced Excel Formulas(VLOOKUP, SUMIFS etc)
